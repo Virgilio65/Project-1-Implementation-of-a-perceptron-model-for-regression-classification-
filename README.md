@@ -1,2 +1,2 @@
 # Project-1-Implementation-of-a-perceptron-model-for-regression-classification-
-Proyecto 1
+Proyecto 1 | Equipo 2
